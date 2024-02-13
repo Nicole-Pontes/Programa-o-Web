@@ -1,6 +1,6 @@
-nu1 = int(input ("Escreva o primeiro número: "))
-nu2 = int(input ("Escreva o segundo número: "))
-nu3 = int(input ("Escreva o terceiro número: "))
+nu1 = float(input ("Escreva o primeiro número: "))
+nu2 = float(input ("Escreva o segundo número: "))
+nu3 = float(input ("Escreva o terceiro número: "))
 
 media = (nu1 + nu2 + nu3)/3
 
