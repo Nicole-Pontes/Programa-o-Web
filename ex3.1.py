@@ -4,4 +4,4 @@ nu3 = float(input ("Escreva o terceiro número: "))
 
 media = (nu1 + nu2 + nu3)/3
 
-print ("O resultado da média aritimética é: ", media)
+print (f"O resultado da média aritimética é: {media}")
