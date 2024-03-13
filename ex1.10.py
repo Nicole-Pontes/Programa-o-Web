@@ -1,6 +1,6 @@
-nu_1 = int(input("Escreva um número: "))
-nu_2 = int(input("Escreva outro número: "))
+nu_1 = int(input("Escreva o Primeiro número: "))
+nu_2 = int(input("Escreva o segundo número: "))
 
-potencia = nu_1**nu_2
+elevado = nu_1 ** nu_2
 
-print (f"O resultado foi: {potencia}")
+print (f"O resultado é {elevado}")
